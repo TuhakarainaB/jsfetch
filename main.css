@@ -1,0 +1,20 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.postElement {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #5a5a5a;
+    border-radius: 5px;
+}
+
+.postTitle {
+    color: #181818;
+    font-size: 16px;
+}
+
+.postBody {
+    font-size: 10px;
+    color: rgb(23, 21, 21);
+}
